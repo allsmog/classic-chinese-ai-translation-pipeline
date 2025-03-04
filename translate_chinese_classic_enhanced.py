@@ -322,8 +322,8 @@ def test_long_paragraph():
 # Main Script
 # ====================================
 
-INPUT_FILE = "input.txt"    # Provide via --input or set manually
-OUTPUT_DIR = "translations" # Provide via --output or set manually
+INPUT_FILE = "targets/dreams-of-a-red-chamber/input.txt"    # Provide via --input or set manually
+OUTPUT_DIR = "targets/dreams-of-a-red-chamber/translations" # Provide via --output or set manually
 
 def main():
     # Run test cases first
